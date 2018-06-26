@@ -6,7 +6,7 @@
 Machine Learning Course Notes
 =============================
 
-My machine learning course notes..
+My machine learning course notes....
 
 .. toctree::
    :maxdepth: 2
