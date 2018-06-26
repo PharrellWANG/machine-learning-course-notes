@@ -14,7 +14,7 @@ if [ ${branch} = ${target} ]; then
     echo 'Now running post-commit hook :D'
     echo '-------------------------'
     echo 'Step 1: start to mving html folder to /tmp dir ...'
-    mv ~/PycharmProjects/${proj_name}/_build_html /tmp
+    mv ~/PycharmProjects/${proj_name}/_build/html /tmp
     echo '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
     echo ' '
     echo 'Step 2: checkout gh-pages branch ...'
