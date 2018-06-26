@@ -8,4 +8,7 @@ Machine Learning Course Notes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
+   1-what-is-ml
+   2-supervised-l
