@@ -5,7 +5,7 @@
 
 Machine Learning Course Notes
 =============================
-
+init
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
