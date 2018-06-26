@@ -26,7 +26,6 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -118,3 +117,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/inspectionProfiles/
+_build/
+_build_html/
